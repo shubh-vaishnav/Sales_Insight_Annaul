@@ -4,7 +4,7 @@
 
 Sales Insights report provides a detailed examination of annual sales data, allowing for informed decision-making and strategic planning throughout the organization. Using Power BI, we transformed raw data into meaningful insights, giving stakeholders a bird's-eye view of our sales results.
 
-[Live Report Link](https://www.novypro.com/project/sales-insights-annual-power-bi-report) 
+[Live Report Link](https://www.novypro.com/project/sales-insights-annual-power-bi-report-power-bi) 
 
 ## Tech stacks
 
